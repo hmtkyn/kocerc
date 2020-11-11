@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1001",
+    "school": "A Okulu",
+    "class": "A Sınıfı",
+    "user": "Ahmet Aydın"
+  },
+  {
+    "id": "1002",
+    "school": "A Okulu",
+    "class": "B Sınıfı",
+    "user": "Mehmet Aydın"
+  },
+  {
+    "id": "1003",
+    "school": "A Okulu",
+    "class": "C Sınıfı",
+    "user": "Cevdet Aydın"
+  },
+  {
+    "id": "1004",
+    "school": "B Okulu",
+    "class": "A Sınıfı",
+    "user": "Hasan Aydın"
+  },
+  {
+    "id": "1005",
+    "school": "B Okulu",
+    "class": "B Sınıfı",
+    "user": "Taner Aydın"
+  },
+  {
+    "id": "1006",
+    "school": "B Okulu",
+    "class": "C Sınıfı",
+    "user": "Kamil Aydın"
+  },
+  {
+    "id": "1007",
+    "school": "C Okulu",
+    "class": "A Sınıfı",
+    "user": "Müjdat Aydın"
+  },
+  {
+    "id": "1008",
+    "school": "C Okulu",
+    "class": "B Sınıfı",
+    "user": "İhsan Aydın"
+  },
+  {
+    "id": "1009",
+    "school": "C Okulu",
+    "class": "C Sınıfı",
+    "user": "Harun Aydın"
+  }
+]
