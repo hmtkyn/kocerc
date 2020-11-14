@@ -31,7 +31,7 @@ function Home() {
     const getStudent = async () => {
       const res = await axios({
         method: 'get',
-        url: 'http://localhost:3001/api/student.json'
+        url: process.env.PUBLIC_URL + '/api/student.json'
       })
       return setStudent(res.data);
     };
