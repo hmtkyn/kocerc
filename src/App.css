@@ -108,6 +108,8 @@ button:disabled {
   box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.1);
   border-radius: 0.5rem;
   transition: all 0.2s linear;
+  cursor: pointer;
+  user-select: none;
 }
 .input-checkbox:focus,
 .input-checkbox:active,
@@ -116,6 +118,7 @@ button:disabled {
 }
 .input-checkbox.disable {
   opacity: 0.6;
+  cursor: not-allowed;
 }
 .input-checkbox input {
   font-size: 2rem;

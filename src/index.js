@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import { BrowserRouter } from 'react-router-dom';
+import swDev from './swDev';
 
 ReactDOM.render(
   <React.StrictMode>
@@ -12,3 +13,4 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
+swDev();

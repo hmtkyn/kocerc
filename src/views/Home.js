@@ -31,7 +31,7 @@ function Home() {
     const getStudent = async () => {
       const res = await axios({
         method: 'get',
-        url: 'https://kocerc.netlify.app/api/student.json'
+        url: 'http://localhost:3001/api/student.json'
       })
       return setStudent(res.data);
     };

@@ -11,7 +11,7 @@ function Start() {
       <div className="widget">
         <div className="widget-row">
           <div className="image-box">
-            <img src="/game-buz-devri.jpg" alt="Buz Devri Oyunu" />
+            <img src="/images/game-buz-devri.jpg" alt="Buz Devri Oyunu" />
           </div>
         </div>
         <div className="widget-row">

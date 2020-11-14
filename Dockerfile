@@ -4,10 +4,10 @@ WORKDIR /usr/src/app/kocerc/client
 
 COPY package.json ./
 
-RUN yarn install
+RUN npm install
 
 COPY . .
 
 EXPOSE 3001
 
-CMD [ "yarn", "start" ]
+# CMD [ "npm", "run", "start" ]
